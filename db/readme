@@ -1,0 +1,8 @@
+Include following Files here:
+
+1.EnglishToFrench.pickle
+2.EnglishVocab.pickle
+3.FrenchToEnglish.pickle
+4.FrenchVocab.pickle
+5.idfE.pickle
+6.idfF.pickle
